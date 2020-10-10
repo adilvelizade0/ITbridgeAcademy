@@ -1,0 +1,17 @@
+{
+  "name": "ITbridgeAcademy",
+  "version": "1.0.0",
+  "description": "bu bir notdur : (blog,videolar,müəllimlərin dataları hamsı api-dən gələcək və saytda əks olunacaq sonra isə compailer edilib deploy olunacaq )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alertifyjs": "^1.13.1",
+    "babel-cli": "^6.26.0",
+    "babel-preset": "^1.1.6"
+  }
+}
